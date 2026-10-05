@@ -1,0 +1,10 @@
+[
+  {"kind": "weekly", "sign": "Leu", "colour": "#e8a33a", "art": "art/leu.webp",
+   "subline": "NR. 40 · 28 SEPT.–4 OCT.", "hook": ["Marte intră", "la tine luni."]},
+  {"kind": "weekly", "sign": "Rac", "colour": "#b0c4de", "art": "art/rac.webp",
+   "subline": "NR. 40 · 28 SEPT.–4 OCT.", "hook": ["Sâmbătă închizi", "un capitol."]},
+  {"kind": "monthly", "sign": "Pești", "colour": "#aa80e6", "art": "art/pesti.webp",
+   "subline": "HOROSCOPUL LUNII · OCTOMBRIE", "hook": ["Zile cheie:", "3, 10, 23, 26."]},
+  {"kind": "monthly", "sign": "Vărsător", "colour": "#40c4ba", "art": "art/varsator.webp",
+   "subline": "HOROSCOPUL LUNII · OCTOMBRIE", "hook": ["Un proiect vechi", "revine."]}
+]
